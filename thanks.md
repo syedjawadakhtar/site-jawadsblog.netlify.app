@@ -1,13 +1,10 @@
 ---
-title: Acknowledgment
-permalink: /thanks/
-layout: page
-excerpt: Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
-comments: false
+title: Acknowledgement
+
 ---
 
-Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
+Thank you to [Mahendrata Harpi](https://github.com/piharpi) for providing such a wonderful theme.
 
-<hr>
+Thank you to all the support of my parents, siblings and friends and everyone who I came across with and learned something from him/her.
 
-Hopefully the knowledge that I got from them can be useful, and become a charity for them, Aamiin.
+Thank you everyone!

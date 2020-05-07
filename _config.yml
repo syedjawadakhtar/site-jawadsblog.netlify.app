@@ -4,7 +4,7 @@ description: >-
   He is writing about technology, Politics and experience as a journal 
   for documentation things that he learned, meet him <a href="syedjawadakhtar.github.io" target="_blank" rel="noopener">@Site</a>.
 lang: en-US
-timezone: Asia/India
+timezone: Asia/Kolkata
 # image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/piharpi/mahendrata.now.sh
 mode: dark # default theme "dark" | "light"
@@ -13,14 +13,13 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Syed Jawad Akhtar
   bio: >-
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/syedjawadakhtar/jekyll-klise" target="_blank" rel="noopener">@github</a>.
+    Welcome to my space of thoughts!
   username: syedjawadakhtar	
   email: syedjawadakhtar@gmail.com
   avatar: /assets/img/avatar.jpg
 
 # Url settings
-url: "https://klise.now.sh"
+url: "https://jawadsblog.netlify.app/"
 baseurl:
 permalink: /:title/
 google_analytics:

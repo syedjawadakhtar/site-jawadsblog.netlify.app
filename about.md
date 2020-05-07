@@ -6,7 +6,7 @@ excerpt: Hello peeps, I'm student of computer science from AMU
 comments: true
 ---
 
-I'm a student. Here are only my views on vast variety of topics. Please look for the starting tag which will define the topic on which the article is written.
+I'm an engineering student. Here are my views on vast variety of [topics](https://jawadsblog.netlify.app/first-blog/). [Tags] in the titles of the posts will give an overview of the topic.
 
 If you want to know more about me, have look on my website [syedjawadakhtar.github.io](https://syedjawadakhtar.github.io/)
 
