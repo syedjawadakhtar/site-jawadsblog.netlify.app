@@ -3,7 +3,6 @@ title: First blog
 date: 2020-05-08 03:18:00 +05:30
 modified: 2020-05-08 12:39:47 +05:30
 tags: [general, blog]
-comments: true
 description: The reason of starting a blog and how I got inspired
 ---
 
@@ -36,6 +35,6 @@ Do check out the [contact page](https://syedjawadakhtar.github.io/#contact) to c
 Thank you and see you soon!
 
 
-{% include disqus.html %}
+
 
 
