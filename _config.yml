@@ -79,3 +79,7 @@ plugins:
   - jekyll-sass-converter
   - jekyll-sitemap
   - jekyll-postfiles
+
+
+# Google Analytics
+google_analytics: UA-167744371-2
