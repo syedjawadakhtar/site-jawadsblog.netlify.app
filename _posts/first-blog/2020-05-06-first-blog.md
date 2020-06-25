@@ -2,6 +2,7 @@
 title: First blog
 date: 2020-05-08 03:18:00 +05:30
 modified: 2020-05-08 12:39:47 +05:30
+comments: True
 tags: [general, blog]
 description: The reason of starting a blog and how I got inspired
 ---
