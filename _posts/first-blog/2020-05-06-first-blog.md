@@ -36,9 +36,7 @@ Do check out the [contact page](https://syedjawadakhtar.github.io/#contact) to c
 Thank you and see you soon!
 
 
-{% if site.disqus.shortname %}
-  {% include disqus.html %}
-{% endif %}
+
 
 
 
