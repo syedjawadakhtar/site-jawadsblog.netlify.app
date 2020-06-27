@@ -6,7 +6,7 @@ description: >-
 lang: en-US
 timezone: Asia/Kolkata
 # image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/mahendrata.now.sh
+repo: https://github.com/syedjawadakhtar/site-jawadsblog.netlify.app
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
@@ -42,7 +42,7 @@ defaults:
       path: ""
     values:
       layout: post
-      comments: false
+      comments: True
 
 # Jekyll Compose default front matter
 jekyll_compose:
