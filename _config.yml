@@ -42,7 +42,7 @@ defaults:
       path: ""
     values:
       layout: post
-      comments: True
+      comments: false
 
 # Jekyll Compose default front matter
 jekyll_compose:
