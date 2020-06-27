@@ -83,3 +83,7 @@ plugins:
 
 # Google Analytics
 google_analytics: UA-167744371-2
+
+# Disqus Comments
+disqus: 
+shortname: https-jawadsblog-netlify-app
