@@ -53,9 +53,12 @@ layout: compress
           {% endif %}
         </div>
       </article>
-      {% if page.comments %}
-        {% include disqus.html%}
-      {% endif %}
+     {% if site.disqus.shortname %}
+  	{% include disqus.html %}
+     {% endif %}
+     <!-- {% if page.comments %}
+        {% include comments.html%}
+      {% endif %} -->
 
     </main>
     {% if page.modified %}
