@@ -1,6 +1,15 @@
-# Creative Selection: Inside Apple's design process during the golden age of Steve Jobs
+---
+title: Book Review - Creative Selection
+date: 2020-09-02 09:33:00 +05:30
+modified: 2020-09-02 09:33:00 +05:30
+comments: True
+tags: [Book Review, Apple, Non fictional]
+description: Book review of creative selection
+---
 
-## Author: Ken Kocienda | Genre: Non fictional
+## Creative Selection: Inside Apple's design process during the golden age of Steve Jobs
+
+### Author: Ken Kocienda | Genre: Non fictional
 
 | ![book.jpg](/assets/2020-09-02-creative_selection.jpg) |
 |:--:|
